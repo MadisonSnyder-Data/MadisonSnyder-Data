@@ -3,7 +3,7 @@ I am a **Data Science** student at the **College of Charleston**. I enjoy bridge
 
 ##  Featured Projects
 
-### [📊 Telco Customer Churn Prediction](https://github.com/msnyder-2/Telco-Customer-Churn-Prediction)
+### [📊 Telco Customer Churn Prediction](https://github.com/MadisonSnyder-Data/Telco-Customer-Churn-Prediction)
 * **Impact**: Identified **78% of at-risk customers** using an optimized Random Forest model.
 * **Feature Engineering**: Created a custom `ChargesRatio` metric that became the model's #1 predictor.
 * **Methodology**: Applied hyperparameter tuning via `RandomizedSearchCV` and validated stability with Learning Curves.

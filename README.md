@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Madison Snyder 
+I am a **Data Science** student at the **College of Charleston**. I enjoy bridge the gap between technical complexity and business strategy.
 
-<!--
-**MadisonSnyder-Data/MadisonSnyder-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Featured Projects
 
-Here are some ideas to get you started:
+### [📊 Telco Customer Churn Prediction](https://github.com/msnyder-2/Telco-Customer-Churn-Prediction)
+* **Impact**: Identified **78% of at-risk customers** using an optimized Random Forest model.
+* **Feature Engineering**: Created a custom `ChargesRatio` metric that became the model's #1 predictor.
+* **Methodology**: Applied hyperparameter tuning via `RandomizedSearchCV` and validated stability with Learning Curves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+* **Languages**: Java, Python, SQL
+* **Data Science**: Scikit-Learn, Pandas, NumPy, Minitab
+* **Specialized Coursework**: Discrete Structures, Statistics, Applied Data Analytics
+
+## 🧪 Research & Experience
+* **Sustainability Research**: Investigated biodegradable polymers as plastic alternatives in collaboration with the Chemistry department.
+
+## 📫 Let's Connect!
+* **LinkedIn**: (https://www.linkedin.com/in/madison-snyder-49603b266)
+* **Email**: [snyderml@g.cofc.edu]

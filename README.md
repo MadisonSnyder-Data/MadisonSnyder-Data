@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit
 * **Languages**: Python, SQL
 * **Machine Learning**: Random Forest, Model Tuning, Recall Optimization 
 * **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn 

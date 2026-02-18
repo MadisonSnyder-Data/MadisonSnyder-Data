@@ -1,21 +1,29 @@
-# Hi, I'm Madison Snyder 
-I am a **Data Science** student at the **College of Charleston**. I enjoy bridge the gap between technical complexity and business strategy.
+# Madison Snyder
+### Data Science Major @ College of Charleston
 
-##  Featured Projects
+---
 
-### [📊 Telco Customer Churn Prediction](https://github.com/MadisonSnyder-Data/Customer_Churn_Prediction)
-* **Impact**: Identified **78% of at-risk customers** using an optimized Random Forest model.
-* **Feature Engineering**: Created a custom `ChargesRatio` metric that became the model's #1 predictor.
-* **Methodology**: Applied hyperparameter tuning via `RandomizedSearchCV` and validated stability with Learning Curves.
+## Featured Projects
 
-## 🛠️ Technical Toolkit
-* **Languages**: Java, Python, SQL
-* **Data Science**: Scikit-Learn, Pandas, NumPy, Minitab
-* **Specialized Coursework**: Discrete Structures, Statistics, Applied Data Analytics
+### [Telco Customer Churn Analytics](https://github.com/MadisonSnyder-Data/customer-churn-prediction)
+* **Core Tech**: Python, Scikit-Learn, Random Forest, RandomizedSearchCV
+* **Impact**: Developed a custom `ChargesRatio` metric to achieve a **78% recall rate** for identifying at-risk revenue 
+* **Analysis**: Conducted Learning Curve analysis to ensure model stability and generalization
 
-## 🧪 Research & Experience
-* **Sustainability Research**: Investigated biodegradable polymers as plastic alternatives in collaboration with the Chemistry department.
+### [Data Reconciliation Engine](https://github.com/MadisonSnyder-Data/data-reconciliation-engine)
+* **Core Tech**: Python, Pandas
+* **Impact**: Automated inventory auditing between warehouse and sales records to eliminate "ghost stock" discrepancies
+* **Significance**: Directly addresses data integrity challenges common in the logistics and supply chain industry
 
-## 📫 Let's Connect!
-* **LinkedIn**: (https://www.linkedin.com/in/madison-snyder-49603b266)
-* **Email**: [snyderml@g.cofc.edu]
+### [Clinical Extraction Pipeline](https://github.com/MadisonSnyder-Data/clinical-extraction-pipeline)
+* **Core Tech**: Python, Large Language Models, JSON
+* **Impact**: Engineered an AI pipeline to transform unstructured medical text into structured, analysis-ready JSON datasets 
+* **Significance**: Showcases ability to handle messy, real-world data and convert it into high-value digital assets
+
+---
+
+## 🛠 Technical Toolkit
+* **Languages**: Python, SQL
+* **Machine Learning**: Random Forest, Model Tuning, Recall Optimization 
+* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn 
+* **Environments**: GitHub, Google Colab, VS Code 
